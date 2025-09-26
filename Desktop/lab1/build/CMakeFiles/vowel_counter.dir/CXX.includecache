@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seaspray/projects/helloworld/oop/lab1/headers/function.h
+string
+-
+
+/home/seaspray/projects/helloworld/oop/lab1/src/function.cpp
+../headers/function.h
+/home/seaspray/projects/helloworld/oop/lab1/headers/function.h
+
+/home/seaspray/projects/helloworld/oop/lab1/src/main.cpp
+iostream
+-
+string
+-
+../headers/function.h
+/home/seaspray/projects/helloworld/oop/lab1/headers/function.h
+
