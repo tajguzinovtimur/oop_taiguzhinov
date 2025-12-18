@@ -1,0 +1,4 @@
+Orc Grom 100 100
+Druid Filius 150 150
+Squirrel Nutty 120 120
+Orc Ugluk 130 130
