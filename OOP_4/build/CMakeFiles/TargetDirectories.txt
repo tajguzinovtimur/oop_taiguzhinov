@@ -1,0 +1,3 @@
+/mnt/c/Users/ko5ya/Desktop/STUDY/c++_oop/oop_4/build/CMakeFiles/lab4_main.dir
+/mnt/c/Users/ko5ya/Desktop/STUDY/c++_oop/oop_4/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ko5ya/Desktop/STUDY/c++_oop/oop_4/build/CMakeFiles/rebuild_cache.dir
