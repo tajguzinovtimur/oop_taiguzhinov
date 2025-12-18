@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests.dir/test_figures.cpp.o CMakeFiles/tests.dir/__/src/Figure.cpp.o CMakeFiles/tests.dir/__/src/Rectangle.cpp.o CMakeFiles/tests.dir/__/src/Trapezoid.cpp.o CMakeFiles/tests.dir/__/src/Rhombus.cpp.o -o tests  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a 

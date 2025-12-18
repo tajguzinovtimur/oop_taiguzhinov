@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/ko5ya/Desktop/STUDY/c++_oop/oop_3/build/tests/tests[1]_tests.cmake")
+  include("/mnt/c/Users/ko5ya/Desktop/STUDY/c++_oop/oop_3/build/tests/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()
